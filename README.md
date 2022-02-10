@@ -1,7 +1,7 @@
 # Chat App like WhatsApp
 Chat App with amazing features!
 
-# Features:
+## Features:
  - Swipe to reply
  - Delete chat
  - Add Profile pictures
