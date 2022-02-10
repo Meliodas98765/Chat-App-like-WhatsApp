@@ -1,6 +1,6 @@
 # Chat App like WhatsApp
 Chat App with amazing features!
-##Features:
+#Features:
  - Swipe to reply
  - Delete chat
  - Add Profile pictures
@@ -8,5 +8,5 @@ Chat App with amazing features!
  - Group Chat
  - Search User (active and inactive)
 
-##Technologies Used: 
+#Technologies Used: 
 Android Studio, Java, Firebase Database, Firebase Authentication. 
