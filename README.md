@@ -3,24 +3,24 @@ Chat App with amazing features!
 
 ## Features:
  - Swipe to reply
- ![Chat without Reply](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(4).jpg)
- ![Chat with Reply](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(5).jpg)
+ ![Chat without Reply](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(4).jpeg)
+ ![Chat with Reply](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(5).jpeg)
 
  - QR Code Generator/ Scanner
-![QR Code for each user](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(2).jpg)
- ![Scanner](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(1).jpg)
+![QR Code for each user](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(2).jpeg)
+ ![Scanner](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(1).jpeg)
 
  - Add Profile pictures
- ![Profile Page](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(6).jpg)
+ ![Profile Page](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(6).jpeg)
  
  - Email Login
- ![Sign-IN/Sign-UP Page](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(7).jpg)
+ ![Sign-IN/Sign-UP Page](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(7).jpeg)
  
  - Group Chat
-![]()
+![Group Chat Page](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(8).jpeg)
 
  - Search User (active and inactive)
-![Filter for easy Search](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(3).jpg)
+![Filter for easy Search](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(3).jpeg)
 
 ## Technologies Used: 
 Android Studio, Java, Firebase Database, Firebase Authentication. 
