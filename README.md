@@ -1,6 +1,9 @@
 # Chat App like WhatsApp
 Chat App with amazing features!
 
+## PlayStore Link:
+https://play.google.com/store/apps/details?id=com.dood.social.homes.activities
+
 ## Features:
  ### - Swipe to reply
 
