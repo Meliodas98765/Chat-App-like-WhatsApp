@@ -27,9 +27,5 @@ https://play.google.com/store/apps/details?id=com.dood.social.homes.activities
 
 ![Group Chat Page](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(8).jpeg)
 
- ### - Search User (active and inactive)
- 
-![Filter for easy Search](https://github.com/Meliodas98765/Chat-App-like-WhatsApp/blob/main/Screenshot_%20(3).jpeg)
-
 ## Technologies Used: 
 Android Studio, Java, Firebase Database, Firebase Authentication. 
